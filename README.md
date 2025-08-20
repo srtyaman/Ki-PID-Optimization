@@ -1,6 +1,6 @@
 # PID Ki Optimization using Metaheuristics and Ensembles
 
-This repository contains Python implementations of several optimization algorithms applied to the tuning of the **Ki** parameter in PID controllers. The goal is to minimize the **Integral of Time-weighted Absolute Error (ITAE)**.
+This repository contains Python implementations of several optimization algorithms applied to the tuning of the **Ki** parameter in PID controllers. The goal is to minimize the **Integral of Time-weighted Absolute Error (ITAE)**. MATLAB files related to this work are also included.
 
 ### Plan
 
